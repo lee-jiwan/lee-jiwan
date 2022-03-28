@@ -1,7 +1,5 @@
 ![Lee Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-jiwan&show_icons=true&theme=default)
 
-> '안녕, 세상아!' 를 즐기는 개발자, 이지완입니다.
-
 ### 👋 Lee Jiwan
 
 <a href="https://www.youtube.com/channel/UCLnOTn1UpsPENjchfxwkvLA"><img src="https://img.shields.io/badge/Youtube-c4302b?style=flat-square&logo=Youtube&logoColor=white"/></a> 
