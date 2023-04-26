@@ -2,9 +2,7 @@
 
 ### 👋 Lee Jiwan
 
-<a href="https://www.youtube.com/channel/UCLnOTn1UpsPENjchfxwkvLA"><img src="https://img.shields.io/badge/Youtube-c4302b?style=flat-square&logo=Youtube&logoColor=white"/></a> 
-<a href="https://www.facebook.com/profile.php?id=100079127580271"><img src="https://img.shields.io/badge/Facebook-1a6dff?style=flat-square&logo=Facebook&logoColor=white"/></a> 
-<a href="https://www.instagram.com/zzstudio.official/"><img src="https://img.shields.io/badge/Instagram-db2973?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+<a href="https://www.instagram.com/dl_wldhks/"><img src="https://img.shields.io/badge/Instagram-db2973?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 <a href="https://leejiwan.tistory.com"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 <a href="mailto://jiwani840@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
 
