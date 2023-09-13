@@ -2,8 +2,6 @@
 
 ### 👋 Lee Jiwan
 
-<a href="https://www.instagram.com/dl_wldhks/"><img src="https://img.shields.io/badge/Instagram-db2973?style=flat-square&logo=Instagram&logoColor=white"/></a> 
-<a href="https://leejiwan.tistory.com"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 <a href="mailto://jiwani840@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
 
 ### 💻 Skills
